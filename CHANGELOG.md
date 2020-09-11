@@ -1,6 +1,20 @@
 # Change Log
 
 <a name="unreleased"></a>
+## [0.7.0](https://www.github.com/boson-project/faas/compare/v0.6.2...v0.7.0) (2020-09-11)
+
+
+### Features
+
+* default to no confirmation prompts for CLI commands ([566d8f9](https://www.github.com/boson-project/faas/commit/566d8f9255d532e88e72d5bce122bebaee88bc81))
+* **ci/cd:** add release-please for automated release management ([8a60c5e](https://www.github.com/boson-project/faas/commit/8a60c5e0c44d28d2ff085e56299217e05e408df8))
+
+
+### Bug Fixes
+
+* delete command ([284b77f](https://www.github.com/boson-project/faas/commit/284b77f7ef6524195da958850131190399470375))
+* describe works without Eventing ([6c16e65](https://www.github.com/boson-project/faas/commit/6c16e65d60543458f0b70c010d672cb4d45f6279))
+
 ## [Unreleased]
 
 
